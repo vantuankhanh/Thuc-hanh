@@ -1,1 +1,1 @@
-# B8-Thuc-hanh
+#Tổng hợp file các buổi thực hành Python
